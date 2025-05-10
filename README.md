@@ -12,6 +12,7 @@
  ### 📁 mkdir command
 ![mkdir command](https://github.com/Linda061/dev-diary/blob/main/mkdir.png)
 
+>>>>>>> HEAD
 ### 📂 cd and ls commands
 ![cd and ls commands](https://github.com/Linda061/dev-diary/blob/main/cdLs.png)
 
@@ -20,3 +21,21 @@
 
 
  ## Equipment I use the Command Line, VS Code, Markdown, GitHub, and Git.
+=======
+## 🖼️ Command Line Screenshots
+
+Here are some screenshots of the commands I practiced:
+
+### 📁 mkdir command
+![mkdir command](images/mkdir.png)
+
+### 📂 cd and ls commands
+![cd and ls commands](images/cdLs.png)
+
+### 📍 pwd command
+![pwd command](images/pwd.png)
+
+
+## Tools I'm using
+Git, GitHub, VS Code, Markdown, Command Line.
+>>>>>>> 194b143 (Added terminal screenshots to README)
