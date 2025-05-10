@@ -2,13 +2,12 @@
 
 
 ## About Me
-Hi, I'm Linda Hashash. I'm learning full stack development and working on this project to improve my skills.
+ Hello My name is Linda Hashash. I'm working on this project to develop my skills while learning full stack programming.
 
-## What I learned about Markdown
-I learned how to format text using headings, bold, italic, links, lists, and code blocks.
+ ## What I discovered regarding Markdown
+ I gained knowledge about formatting content using code blocks, lists, links, bold, italics, and headings.
 
-## What I learned about the command line
-I practiced basic terminal commands like `cd`, `ls`, `pwd`and `mkdir`.
+ ## My newfound knowledge of the command line
+ Basic terminal commands like `cd`, `ls`, `pwd`, and `mkdir` were among the things I practiced.
 
-## Tools I'm using
-Git, GitHub, VS Code, Markdown, Command Line.
+ ## Equipment I use the Command Line, VS Code, Markdown, GitHub, and Git.
