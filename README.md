@@ -27,13 +27,13 @@
 Here are some screenshots of the commands I practiced:
 
 ### 📁 mkdir command
-![mkdir command](images/mkdir.png)
+![mkdir command](https://github.com/Linda061/dev-diary/blob/main/mkdir.png)
 
 ### 📂 cd and ls commands
-![cd and ls commands](images/cdLs.png)
+![cd and ls commands](https://github.com/Linda061/dev-diary/blob/main/cdLs.png)
 
 ### 📍 pwd command
-![pwd command](images/pwd.png)
+![pwd command](https://github.com/Linda061/dev-diary/blob/main/pwd.png)
 
 
 ## Tools I'm using
