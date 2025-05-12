@@ -28,6 +28,3 @@ Here are some screenshots of the commands I practiced:
 ### 📍 pwd command
 ![pwd command](pwd.png)
 
-## Tools I'm using
-
-Git, GitHub, VS Code, Markdown, Command Line.
