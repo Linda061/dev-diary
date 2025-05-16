@@ -19,12 +19,12 @@ For file management and navigation in the terminal, commands like `cd`, `ls` and
 
 Here are some screenshots of the commands I practiced:
 
-### 1.mkdir command
+### 1. mkdir command
 ![mkdir command](mkdir.png)
 
-### 2.cd and ls commands
+### 2. cd and ls commands
 ![cd and ls commands](cdLs.png)
 
-### 3.pwd command
+### 3. pwd command
 ![pwd command](pwd.png)
 
